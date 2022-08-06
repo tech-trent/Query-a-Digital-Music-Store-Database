@@ -1,3 +1,3 @@
-# Query-a-Digital-Music-Store-Database
+# SQL Project
 
 Udacity Business Analytics Nanodegree - Project 3
